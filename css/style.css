@@ -1,0 +1,23 @@
+body{
+    align-items: center;
+    text-align: center;
+    color: black;
+    font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    font-size: 30px;
+    font-family: 'Comic Sans MS';
+}
+table{
+    border-collapse: collapse;
+}
+td{
+    text-align: center;
+    border: 1px solid black;
+    width: 33px;
+    height: 33px;
+}
+td.selected{
+    background-color: #FF6961;
+}
